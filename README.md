@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shankhadeep Banerjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankhadeepbanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="shankhadeepbanerjee" /> </p>
 
 - 🌱 I’m currently learning **Fullstack dev**
 
-- 💬 Ask me about **React, Nextjs, Competetive Programming**
+- 💬 Ask me about **React, Nextjs, Nodejs, Flutter**
 
 - 📫 How to reach me **shankhadeep17.sb@gmail.com**
 
