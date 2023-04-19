@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shankhadeep17.sb@gmail.com**
 
-- ⚡ Things that I enjoy, **Drawing, Watching Anime, Rap Music**
+- ⚡ Some other things that I enjoy, **Drawing, Anime, Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
