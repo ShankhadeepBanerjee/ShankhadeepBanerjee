@@ -14,13 +14,13 @@
   
 <p align="left" width="20" class="inline">
   
-- 🌱 I’m currently learning **Fullstack dev**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **React, Nextjs, Nodejs, Flutter**
 
-- 📫 How to reach me **shankhadeep17.sb@gmail.com**
+- 📫 How to reach me **shankhadeep.dev@gmail.com**
 
-- ⚡ Some other things that I enjoy, **Drawing, Anime, Music**
+- ⚡ Some other things that I enjoy, **Drawing, Anime, Movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
